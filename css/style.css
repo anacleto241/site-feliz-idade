@@ -4,8 +4,7 @@ body {
 }
 
 .navbar-brand img {
-    width: 70px;
-    height: 70px;
+    border-radius: 50%;
 }
 
 .social-icons a {
@@ -34,4 +33,3 @@ footer {
 .navbar-nav .nav-link:hover {
     color: #F27B13 !important; /* Define a cor de hover com alta prioridade */
 }
-
