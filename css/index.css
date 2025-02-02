@@ -1139,3 +1139,18 @@
     width: auto;
   }
 }
+
+
+.menu-collapse {
+  position: fixed; 
+  top: 20px;
+
+  right: 18px;
+  z-index: 1002;
+}
+
+.u-social-icons {
+  top:5px; 
+  right: 20px;
+}
+
